@@ -1,6 +1,7 @@
 # User Registration App
 
-![Project Logo]("C:\Users\Sanika\OneDrive\Desktop\Project\Devzery Assignment\img.png")
+![image](https://github.com/SumeetD003/Devzery_Assignment/assets/112892013/799d6e20-85ca-4b34-83d0-d221258db4e1)
+
 
 This is a simple React app with user registration functionality and used Flask(Python) for Backend and used database MYSQL . Users can fill out a registration form, and their information is displayed in a user profile list.
 
